@@ -9,3 +9,5 @@ Where you have a main and a develop branch that always exist.
 But no work is done on the main and the develop branch.
 New features are developed in temporary feature branches.
 Finished features are commited, tested and then merged into the develop branch.
+Releases are prepared in temporary release branches.
+Release branches are merged into the main branch and into the develop branch.
