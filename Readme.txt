@@ -18,3 +18,7 @@ An other popular git workflow is the pull request workflow made popular by Githu
 In this workflow, some or all merges are only done after a pull request and code reviews.
 The pull request workflow can be combined with most other workflows.
 
+With the Fork Workflow, everybody with sufficient rights can fork the upstream repostitory
+The forked repository is cloned and the work is done on the clone.
+After the work is ready, the work is pushed to the fork and a full request informs the upstream repository
+ 
