@@ -14,3 +14,7 @@ Release branches are merged into the main branch and into the develop branch.
 Critical bugs in the main branch are fixed in temporary hotfix branches.
 Hotfix branches are merged into the main and the developer branch.
 
+An other popular git workflow is the pull request workflow made popular by Github.
+In this workflow, some or all merges are only done after a pull request and code reviews.
+The pull request workflow can be combined with most other workflows.
+
